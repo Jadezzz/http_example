@@ -22,5 +22,9 @@ Client side:
 Hi,this is server.
 close Socket
 ```
+# Clean
+```
+make clean
+```
 
 # Enjoy~
